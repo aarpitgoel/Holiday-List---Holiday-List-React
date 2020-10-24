@@ -15,18 +15,6 @@ class App extends Component {
       {
         key: "location3",
         city: "Lonavala"
-      },
-      {
-        key: "location4",
-        city: "Amsterdam"
-      },
-      {
-        key: "location5",
-        city: "New York"
-      },
-      {
-        key: "location6",
-        city: "Tokyo"
       }
     ];
     return (
